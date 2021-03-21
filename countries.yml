@@ -1,0 +1,256 @@
+nlu:
+  - lookup: country
+    examples: |
+      - Democratic People's Republic of Korea
+      - Lao People's Democratic Republic
+      - Central African Republic
+      - Northern Mariana Islands
+      - Turks and Caicos Islands
+      - United States of America
+      - Bosnia and Herzegovina
+      - British Virgin Islands
+      - republic of the Congo
+      - Sao Tome and Principe
+      - United Arab Emirates
+      - Antigua and Barbuda
+      - Portuguese Republic
+      - Trinidad and Tobago
+      - Argentine Republic
+      - Dominican Republic
+      - Equatorial Guinea
+      - Gabonese Republic
+      - Hellenic Republic
+      - Republic of Korea
+      - Togolese Republic
+      - Christmas Island
+      - Falkland Islands
+      - Marshall Islands
+      - Papua New Guinea
+      - Pitcairn Islands
+      - Kyrgyz Republic
+      - North Macedonia
+      - Slovak Republic
+      - Solomon Islands
+      - American Samoa
+      - Cayman Islands
+      - Czech Republic
+      - Norfolk Island
+      - United Kingdom
+      - Faroe Islands
+      - Guinea-Bissau
+      - Liechtenstein
+      - New Caledonia
+      - United States
+      - Great Britain
+      - Burkina Faso
+      - Cook Islands
+      - Saudi Arabia
+      - Sierra Leone
+      - Sint Maarten
+      - Transnistria
+      - Turkmenistan
+      - Vatican City
+      - Afghanistan
+      - New Holland
+      - Ivory Coast
+      - El Salvador
+      - Isle of Man
+      - Netherlands
+      - New Zealand
+      - North Korea
+      - Philippines
+      - Puerto Rico
+      - South Sudan
+      - Switzerland
+      - Timor-Leste
+      - Antarctica
+      - Azerbaijan
+      - Bangladesh
+      - Costa Rica
+      - Guadeloupe
+      - Kazakhstan
+      - Kyrgyzstan
+      - Luxembourg
+      - Madagascar
+      - Martinique
+      - Mauritania
+      - Micronesia
+      - Montenegro
+      - Montserrat
+      - Mozambique
+      - Porto Rico
+      - San Marino
+      - Seychelles
+      - Tajikistan
+      - Uzbekistan
+      - Argentina
+      - Australia
+      - Swaziland
+      - Gibraltar
+      - Greenland
+      - Guatemala
+      - Hong Kong
+      - Indonesia
+      - Lithuania
+      - Mauritius
+      - Nicaragua
+      - Singapore
+      - Sri Lanka
+      - Venezuela
+      - Abkhazia
+      - Anguilla
+      - Barbados
+      - Botswana
+      - Bulgaria
+      - Cambodia
+      - Cameroon
+      - Colombia
+      - Djibouti
+      - Dominica
+      - Eswatini
+      - Ethiopia
+      - Guernsey
+      - Honduras
+      - Hungaria
+      - Kiribati
+      - Malaysia
+      - Maldives
+      - Mongolia
+      - Pakistan
+      - Paraguay
+      - Portugal
+      - Réunion
+      - Slovakia
+      - Slovenia
+      - Suriname
+      - Tanzania
+      - Thailand
+      - Zimbabwe
+      - Scotland
+      - Albania
+      - Algeria
+      - Andorra
+      - Armenia
+      - Austria
+      - Bahamas
+      - Bahrain
+      - Belarus
+      - Belgium
+      - Bermuda
+      - Bolivia
+      - Burundi
+      - Comoros
+      - Croatia
+      - Curacao
+      - Czechia
+      - Czechia
+      - Denmark
+      - Ecuador
+      - Eritrea
+      - Estonia
+      - Finland
+      - Georgia
+      - Germany
+      - Grenada
+      - Hungary
+      - Iceland
+      - Ireland
+      - Jamaica
+      - Lebanon
+      - Lesotho
+      - Liberia
+      - Mayotte
+      - Moldova
+      - Morocco
+      - Myanmar
+      - Namibia
+      - Nigeria
+      - Romania
+      - Senegal
+      - Somalia
+      - Tunisia
+      - Ukraine
+      - America
+      - Uruguay
+      - Vanuatu
+      - Vatican
+      - Vietnam
+      - Britain
+      - England
+      - Ireland
+      - Angola
+      - Belize
+      - Bhutan
+      - Brazil
+      - Brunei
+      - Canada
+      - Cyprus
+      - France
+      - Gambia
+      - Greece
+      - Hellas
+      - Guinea
+      - Guyana
+      - Persia
+      - Israel
+      - Jersey
+      - Jordan
+      - Kosovo
+      - Kuwait
+      - Latvia
+      - Malawi
+      - Mexico
+      - Monaco
+      - Norway
+      - Panama
+      - Poland
+      - Russia
+      - Rwanda
+      - Serbia
+      - Sweden
+      - Taiwan
+      - Turkey
+      - Tuvalu
+      - Uganda
+      - Zambia
+      - Aruba
+      - Benin
+      - Chile
+      - China
+      - Egypt
+      - Gabon
+      - Ghana
+      - Haiti
+      - India
+      - Italy
+      - Japan
+      - Kenya
+      - Libya
+      - Malta
+      - Burma
+      - Nauru
+      - Nepal
+      - Niger
+      - Palau
+      - Qatar
+      - Congo
+      - Samoa
+      - Spain
+      - Sudan
+      - Syria
+      - Tonga
+      - Yemen
+      - Wales
+      - Chad
+      - Cuba
+      - Fiji
+      - Guam
+      - Iran
+      - Iraq
+      - Laos
+      - Mali
+      - Niue
+      - Oman
+      - Peru
+      - Togo
+      - USA
