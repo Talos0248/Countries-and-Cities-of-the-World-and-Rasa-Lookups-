@@ -4,4 +4,4 @@ The cities are obtained from GeoLite2 and have been looked through and organized
 
 To use the cities.yml and countries.yml, just pop them into your NLU data folder, and add a version section if you don't want the "version" warning.
 
-If you want the clean files, check out the .csv versions of the files!
+If you want the clean files without additional YML formatting, check out the .csv versions of the files!
