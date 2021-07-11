@@ -1,4 +1,4 @@
-# Countries-and-Cities-of-the-World-and-Rasa-Lookups-
+Major Cities and Countries of the World: CSVs for General Use and Lookup Tables for RASA
 For anyone using Rasa who wants lookup tables with most major cities and countries in the world! Normal .csv files with one column are also provided!
 The cities are obtained from GeoLite2 and have been looked through and organized by myself to remove repetitive entries, entries with strange non utf-8 characters, and entries which are far too long (Over ~80 characters)
 
